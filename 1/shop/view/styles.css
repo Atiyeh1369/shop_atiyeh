@@ -1,0 +1,18 @@
+ html, body {
+     height: 100%;
+ }
+ .full-body {
+     background-image: url("../local/homepage.jpg");
+     background-repeat: no-repeat;
+     background-position: center;
+
+ }
+ .wrapper {
+     min-height: 100%;
+     height: auto !important;
+     height: 100%;
+     margin: 0 auto -142px;
+ }
+ .footer, .push {
+     height: 142px;
+ }
